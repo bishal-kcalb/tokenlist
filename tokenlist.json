@@ -1,0 +1,45 @@
+
+
+{
+    "name": "BINGO",
+    "logoURI": "https://defiprime.com/images/defiprime-logo-hires2.png",
+    "keywords": [
+      "Defi",
+      "defiprime",
+      "curated"
+    ],
+    "tags": {
+      "defi": {
+        "name": "DeFi Tokens",
+        "description": "Tokens associated with the products listed at defiprime.com"
+      }
+    },
+    "timestamp": "2023-07-04T00:00:00+00:00",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x76238635ff886D35780f4E7B911577Ba8a15C787",
+        "symbol": "GMU",
+        "name": "GMU TOKEN",
+        "decimals": 18,
+        "tags": [
+          "defi"
+        ]
+      },
+      {
+        "chainId": 1,
+        "address": "0xbdF2AC3441ed4BA7eFBC16B9db6eF7aA4D20b090",
+        "symbol": "BING",
+        "name": "BING Token",
+        "decimals": 18,
+        "tags": [
+          "defi"
+        ]
+      }   
+    ],
+    "version": {
+      "major": 1,
+      "minor": 46,
+      "patch": 0
+    }
+  }
