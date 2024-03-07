@@ -17,7 +17,7 @@
     "timestamp": "2023-07-04T00:00:00+00:00",
     "tokens": [
       {
-        "chainId": 1,
+        "chainId": 123454321,
         "address": "0x76238635ff886D35780f4E7B911577Ba8a15C787",
         "symbol": "GMU",
         "name": "GMU TOKEN",
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "chainId": 1,
+        "chainId": 123454321,
         "address": "0xbdF2AC3441ed4BA7eFBC16B9db6eF7aA4D20b090",
         "symbol": "BING",
         "name": "BING Token",
