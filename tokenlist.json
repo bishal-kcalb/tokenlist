@@ -18,7 +18,7 @@
     "tokens": [
       {
         "chainId": 123454321,
-        "address": "0x76238635ff886D35780f4E7B911577Ba8a15C787",
+        "address": "0x7F437dD9a0F51190BdFb2E934D1178E1B720491B",
         "symbol": "GMU",
         "name": "GMU TOKEN",
         "decimals": 18,
@@ -28,7 +28,7 @@
       },
       {
         "chainId": 123454321,
-        "address": "0xbdF2AC3441ed4BA7eFBC16B9db6eF7aA4D20b090",
+        "address": "0x849C5efB650d8A3b347e40C2E278d00467446052",
         "symbol": "BING",
         "name": "BING Token",
         "decimals": 18,
