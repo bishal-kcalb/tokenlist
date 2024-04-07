@@ -17,25 +17,16 @@
     "timestamp": "2023-07-04T00:00:00+00:00",
     "tokens": [
       {
-        "chainId": 123454321,
-        "address": "0x7F437dD9a0F51190BdFb2E934D1178E1B720491B",
-        "symbol": "GMU",
-        "name": "GMU TOKEN",
+        "chainId": 88559,
+        "address": "0x9e83ED769b44CCC1cc1Fc00969b1DFFFF83EA1E3",
+        "symbol": "WINO",
+        "name": "Wrapped INO",
         "decimals": 18,
         "tags": [
           "defi"
         ]
-      },
-      {
-        "chainId": 123454321,
-        "address": "0x849C5efB650d8A3b347e40C2E278d00467446052",
-        "symbol": "BING",
-        "name": "BING Token",
-        "decimals": 18,
-        "tags": [
-          "defi"
-        ]
-      }   
+      }
+      
     ],
     "version": {
       "major": 1,
