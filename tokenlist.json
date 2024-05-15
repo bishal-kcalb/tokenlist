@@ -1,8 +1,8 @@
 
 
 {
-    "name": "BINGO",
-    "logoURI": "https://defiprime.com/images/defiprime-logo-hires2.png",
+    "name": "INOAI",
+    "logoURI": "https://kcalb.org/media/ino-native/icon-native-ino-300x300.png",
     "keywords": [
       "Defi",
       "defiprime",
@@ -10,8 +10,8 @@
     ],
     "tags": {
       "defi": {
-        "name": "DeFi Tokens",
-        "description": "Tokens associated with the products listed at defiprime.com"
+        "name": "INOAI Tokens",
+        "description": "Tokens associated with the products listed at inoai"
       }
     },
     "timestamp": "2023-07-04T00:00:00+00:00",
@@ -22,7 +22,7 @@
         "symbol": "WINO",
         "name": "Wrapped INO",
         "decimals": 18,
-        "logoURI": "ipfs://bafybeig3w6cs7zh7kyf6i2pmos6dr3neya5qcyrlsdfo6n3m4tcepvpliy/Favi%20I.png",
+        "logoURI": "https://kcalb.org/media/ino-wrapped/icon-wrapped-ino-220x220.png",
         "tags": [
           "defi"
         ]
