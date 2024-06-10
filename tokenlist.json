@@ -18,9 +18,9 @@
     "tokens": [
       {
         "chainId": 88559,
-        "address": "0xDF8134c63eD7Ca449f975cfcc14F57da6D3b3F6c",
-        "symbol": "WINO",
-        "name": "Wrapped INO",
+        "address": "0x7F437dD9a0F51190BdFb2E934D1178E1B720491B",
+        "symbol": "TINO",
+        "name": "Test INO",
         "decimals": 18,
         "logoURI": "https://kcalb.org/media/ino-wrapped/icon-wrapped-ino-220x220.png",
         "tags": [
