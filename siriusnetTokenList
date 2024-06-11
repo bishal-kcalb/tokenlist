@@ -1,0 +1,61 @@
+{
+  "name": "Siriuswap Token List",
+  "logoURI": "ipfs://QmW1hPg9xa1tqYKGkcEScQEoGShT11tRsrotPB1JU4YWEc/werwer23r2.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "stablecoin"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "Siriuswap": {
+      "name": "Siriuswap",
+      "description": "Tokens that earn interest on Siriuswap"
+    }
+  },
+  "timestamp": "2023-04-02T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 217,
+      "address": "0x4eE519a0c6ec0aC2b205a3dE4BFABbb01162A315",
+      "symbol": "SINT",
+      "name": "SiriusnetToken",
+      "decimals": 6,
+      "logoURI": "ipfs://Qmb1axRtJjr98Ju8BL1WK4igm3egEdKK5skA4gwHdzpvUZ/LOGOOGOGOG.png",
+      "tags": [
+        "stablecoin",
+        "verified"
+      ]
+    },
+    {
+      "chainId": 217,
+      "address": "0xaba6F807fFEAA36fD845aA6E1A165597784a1efb",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "ipfs://QmPkLX8F7RySxo5HzCEFKZ3CNJUuDcc9q23bhCnkZP6Yfu/USDT.png",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "chainId": 217,
+      "address": "0xA5A4fC049E1c7d7a43475f79cE7F6ef92c8378d1",
+      "symbol": "WMCD",
+      "name": "Wrap MCD",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWB4nrxAK4isEbL7yzLTXouRe8E3RvT3Ut6ZuPBVMHv2A/MCD.png",
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ],
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 0
+  }
+}
