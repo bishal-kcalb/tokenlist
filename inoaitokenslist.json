@@ -1,0 +1,40 @@
+{
+  "name": "Inoai Token List",
+  "logoURI": "ipfs://QmW1hPg9xa1tqYKGkcEScQEoGShT11tRsrotPB1JU4YWEc/werwer23r2.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "stablecoin"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "Inoswap": {
+      "name": "Inoswap",
+      "description": "Tokens that earn interest on Inoswap"
+    }
+  },
+  "timestamp": "2023-04-02T00:00:00+00:00",
+  "tokens": [
+
+
+    {
+      "chainId": 88559,
+      "address": "0xb02B1b6Aa0b8e348117989467B0b8bdf1B4294Fc",
+      "symbol": "WINO",
+      "name": "Wrapped INO",
+      "decimals": 18,
+      "logoURI": "ipfs://QmWB4nrxAK4isEbL7yzLTXouRe8E3RvT3Ut6ZuPBVMHv2A/MCD.png",
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ],
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 0
+  }
+}
