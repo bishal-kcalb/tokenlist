@@ -26,7 +26,7 @@
       "symbol": "WINO",
       "name": "Wrapped INO",
       "decimals": 18,
-      "logoURI": "./Wrapped.png",
+      "logoURI": "https://github.com/bishal-kcalb/tokenlist/blob/main/Wrapped.png?raw=true",
       "tags": [
         "stablecoin"
       ]
