@@ -18,11 +18,11 @@
     "tokens": [
       {
         "chainId": 88559,
-        "address": "0x7F437dD9a0F51190BdFb2E934D1178E1B720491B",
-        "symbol": "TINO",
-        "name": "Test INO",
+        "address": "0xb02B1b6Aa0b8e348117989467B0b8bdf1B4294Fc",
+        "symbol": "WINO",
+        "name": "Wrapped INO",
         "decimals": 18,
-        "logoURI": "https://kcalb.org/media/ino-wrapped/icon-wrapped-ino-220x220.png",
+        "logoURI": "https://github.com/bishal-kcalb/tokenlist/blob/main/Wrapped.png?raw=true",
         "tags": [
           "defi"
         ]
