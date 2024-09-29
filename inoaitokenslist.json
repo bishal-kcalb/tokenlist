@@ -26,7 +26,7 @@
       "symbol": "WINO",
       "name": "Wrapped INO",
       "decimals": 18,
-      "logoURI": "ipfs://QmWB4nrxAK4isEbL7yzLTXouRe8E3RvT3Ut6ZuPBVMHv2A/MCD.png",
+      "logoURI": "./Wrapped.png",
       "tags": [
         "stablecoin"
       ]
