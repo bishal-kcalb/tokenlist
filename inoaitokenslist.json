@@ -31,12 +31,12 @@
       ]
     },
     {
-      "chainId": 217,
-      "address": "0xE06e5210b5b02B04513E0E115C0B1FB67bC526Ed",
-      "symbol": "USDT",
-      "name": "Tether USD",
-      "decimals": 6,
-      "logoURI": "ipfs://QmPkLX8F7RySxo5HzCEFKZ3CNJUuDcc9q23bhCnkZP6Yfu/USDT.png",
+      "chainId": 101088,
+      "address": "0xb8e47C64F12639245831Ac5c50806D3A44eF2a78",
+      "symbol": "$XTC",
+      "name": "Xitcoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/bishal-kcalb/tokenlist/main/xitcoin.png",
       "tags": [
         "stablecoin"
       ]
