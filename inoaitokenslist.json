@@ -1,20 +1,19 @@
 {
-    "name": "My Token List",
-    "timestamp": "2020-06-12T00:00:00+00:00",
-    "tokens": [
-      {
-        "chainId": 101088,
-        "address": "0xb8e47C64F12639245831Ac5c50806D3A44eF2a78",
-        "symbol": "$XTC",
-        "name": "Xitcoin",
-        "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/bishal-kcalb/tokenlist/main/xitcoin.png",
-      }
-
-    ],
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
+  "name": "My Token List",
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101088,
+      "address": "0xb8e47C64F12639245831Ac5c50806D3A44eF2a78",
+      "symbol": "$XTC",
+      "name": "Xitcoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/bishal-kcalb/tokenlist/main/xitcoin.png"
     }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   }
+}
