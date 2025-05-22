@@ -21,12 +21,12 @@
 
 
     {
-      "chainId": 88559,
-      "address": "0xb02B1b6Aa0b8e348117989467B0b8bdf1B4294Fc",
-      "symbol": "WINO",
-      "name": "Wrapped INO",
+      "chainId": 101088,
+      "address": "0x4bF80AA42f56243fDF70Fa35222f3faE9f79B156",
+      "symbol": "W$XTC",
+      "name": "Wrapped Xitcoin",
       "decimals": 18,
-      "logoURI": "https://github.com/bishal-kcalb/tokenlist/blob/main/Wrapped.png?raw=true",
+      "logoURI": "https://github.com/bishal-kcalb/tokenlist/blob/main/xitcoin.png?raw=true",
       "tags": [
         "stablecoin"
       ]
