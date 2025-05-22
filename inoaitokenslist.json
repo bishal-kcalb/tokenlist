@@ -1,51 +1,19 @@
 {
-  "name": "Xitcoin Token List",
-  "logoURI": "https://raw.githubusercontent.com/bishal-kcalb/tokenlist/main/xitcoin.png",
-  "keywords": [
-    "audited",
-    "verified",
-    "stablecoin"
-  ],
-  "tags": {
-    "stablecoin": {
-      "name": "Stablecoin",
-      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-    },
-    "Siriuswap": {
-      "name": "Siriuswap",
-      "description": "Tokens that earn interest on Siriuswap"
-    }
-  },
-  "timestamp": "2023-04-02T00:00:00+00:00",
-  "tokens": [
-    {
-      "chainId": 101088,
-      "address": "0x4bF80AA42f56243fDF70Fa35222f3faE9f79B156",
-      "symbol": "WXTC",
-      "name": "Wrapped Xitcoin",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/bishal-kcalb/tokenlist/main/xitcoin.png",
-      "tags": [
-        "stablecoin",
-        "verified"
-      ]
-    },
-    {
-      "chainId": 101088,
-      "address": "0xb8e47C64F12639245831Ac5c50806D3A44eF2a78",
-      "symbol": "XTC",
-      "name": "Xitcoin",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/bishal-kcalb/tokenlist/main/xitcoin.png",
-      "tags": [
-        "stablecoin"
-      ]
-    },
+    "name": "My Token List",
+    "timestamp": "2020-06-12T00:00:00+00:00",
+    "tokens": [
+      {
+        "chainId": 101088,
+        "address": "0xb8e47C64F12639245831Ac5c50806D3A44eF2a78",
+        "symbol": "$XTC",
+        "name": "Xitcoin",
+        "decimals": 8
+      }
 
-  ],
-  "version": {
-    "major": 5,
-    "minor": 0,
-    "patch": 0
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
   }
-}
