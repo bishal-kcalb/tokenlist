@@ -5,7 +5,7 @@
       {
         "chainId": 101088,
         "address": "0xb8e47C64F12639245831Ac5c50806D3A44eF2a78",
-        "symbol": "$XTC",
+        "symbol": "XTC",
         "name": "Xitcoin",
         "decimals": 8
       }
