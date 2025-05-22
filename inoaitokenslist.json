@@ -21,7 +21,7 @@
     {
       "chainId": 101088,
       "address": "0x4bF80AA42f56243fDF70Fa35222f3faE9f79B156",
-      "symbol": "SINT",
+      "symbol": "WXTC",
       "name": "Wrapped Xitcoin",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/bishal-kcalb/tokenlist/main/xitcoin.png",
@@ -33,7 +33,7 @@
     {
       "chainId": 101088,
       "address": "0xb8e47C64F12639245831Ac5c50806D3A44eF2a78",
-      "symbol": "$XTC",
+      "symbol": "XTC",
       "name": "Xitcoin",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/bishal-kcalb/tokenlist/main/xitcoin.png",
@@ -41,17 +41,7 @@
         "stablecoin"
       ]
     },
-    {
-      "chainId": 217,
-      "address": "0xA5A4fC049E1c7d7a43475f79cE7F6ef92c8378d1",
-      "symbol": "WMCD",
-      "name": "Wrap MCD",
-      "decimals": 18,
-      "logoURI": "ipfs://QmWB4nrxAK4isEbL7yzLTXouRe8E3RvT3Ut6ZuPBVMHv2A/MCD.png",
-      "tags": [
-        "stablecoin"
-      ]
-    }
+
   ],
   "version": {
     "major": 5,
