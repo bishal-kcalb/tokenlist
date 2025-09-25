@@ -10,14 +10,14 @@
       "decimals": 8,
       "logoURI": "https://www.shutterstock.com/shutterstock/photos/2490274483/display_1500/stock-vector-mantra-om-cryptocurrency-logos-illustrations-on-abstract-background-d-illustrations-2490274483.jpg"
     },
-        {
+    {
       "chainId": 101088,
       "address": "0xa022b50F2d110EC5449395E17Ac106b6707A6cE4",
       "symbol": "$XTC",
       "name": "Test Xitcoin",
       "decimals": 8,
       "logoURI": "https://www.shutterstock.com/shutterstock/photos/1110152669/display_1500/stock-vector-huobi-token-cryptocurrency-coin-isolated-1110152669.jpg"
-    },
+    }
   ],
   "version": {
     "major": 1,
