@@ -1,7 +1,7 @@
 
 
 {
-    "name": "INOAI",
+    "name": "NPC",
     "logoURI": "https://kcalb.org/media/ino-native/icon-native-ino-300x300.png",
     "keywords": [
       "Defi",
@@ -17,10 +17,10 @@
     "timestamp": "2023-07-04T00:00:00+00:00",
     "tokens": [
       {
-        "chainId": 88559,
-        "address": "0xb02B1b6Aa0b8e348117989467B0b8bdf1B4294Fc",
-        "symbol": "WINO",
-        "name": "Wrapped INO",
+        "chainId": 9770,
+        "address": "0x42699A7612A82f1d9C36148af9C77354759b210b",
+        "symbol": "WNPC",
+        "name": "Wrapped Nepa Coin",
         "decimals": 18,
         "logoURI": "https://github.com/bishal-kcalb/tokenlist/blob/main/Wrapped.png?raw=true",
         "tags": [
